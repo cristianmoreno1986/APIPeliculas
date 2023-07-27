@@ -1,0 +1,39 @@
+# Carpeta bin y obj generada por el compilador
+bin/
+obj/
+
+# Carpeta generada por NuGet
+packages/
+
+# Archivos de usuario de Visual Studio
+*.user
+
+# Archivo de configuración de Visual Studio
+*.vs
+
+# Archivo .vscode generado por Visual Studio Code
+.vscode/
+
+# Carpeta de respaldo generada por el depurador
+[Dd]ebug/
+
+# Carpeta de respaldo generada por el depurador en modo release
+[Rr]elease/
+
+# Carpeta de pruebas generada por MSTest
+TestResults/
+
+# Archivo de registro de errores
+*.log
+
+# Archivo generado por Resharper
+_resharper.*
+
+# Archivo generado por Rider
+*.[Rr]e[Ss]harper
+
+# Carpeta generada por Rider
+.idea/
+
+# Carpeta generada por OmniSharp
+.omnisharp/
